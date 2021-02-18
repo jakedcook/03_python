@@ -18,7 +18,7 @@ votes from an election.
 
   * The greatest decrease in losses (date and amount) over the entire period
   
-  [image](PyBank/Resources/PyBank%20Screenshot.png)
+  ![PyBank](Images/PyBank%20Screenshot.png)
 
 
 ## PyPoll
@@ -36,4 +36,4 @@ votes from an election.
 
   * The winner of the election based on popular vote.
   
-  [image](PyPoll/Resources/PyPoll%20Screenshot.png)
+  ![PyPoll](Images/PyPoll%20Screenshot.png)
