@@ -18,7 +18,7 @@ votes from an election.
 
   * The greatest decrease in losses (date and amount) over the entire period
   
-  [image](Resources/PyBank%20Screenshot.png)
+  ![Resources/PyBank%20Screenshot.png](Resources/PyBank%20Screenshot.png)
 
 
 ## PyPoll
